@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, mi nombre es Cristian Santiago Rincón 👋
 
-<!--
-**santiago-rincon/santiago-rincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingeniero electrónico
 
-Here are some ideas to get you started:
+Soy un ingeniero electrónico apasionado por la innovación tecnológica y con habilidades en desarrollo web. Con una sólida formación en ingeniería electrónica, estoy constantemente buscando nuevas oportunidades para fusionar mi conocimiento técnico con mis habilidades en desarrollo web aplicando las nuevas tecnologias del mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo un sólido conocimiento en desarrollo web, donde he adquirido habilidades en HTML, CSS y JavaScript. He trabajado en el desarrollo de sitios web interactivos y responsivos, usando frameworks de desarrollo como Angular, Bootstrap, TailwindCSS, entre otros. He integrado servcios en la nube de Firebase como autenticación de usuarios, hosting y servicio de base de datos en tiempo real. A continuación el proyecto más reciente:
+
+* [**App Coffee GUI**](https://app-coffee-gui.web.app/home)
+* 
+Soy un comunicador efectivo y me gusta trabajar en equipo. Estoy constantemente actualizando mis habilidades y conocimientos en ingeniería electrónica y desarrollo web de manera autonoma, ya sea a través de cursos en línea, participación en conferencias o proyectos personales. 
+
+### Tecnologías
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
