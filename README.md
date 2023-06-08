@@ -30,3 +30,7 @@ Soy un comunicador efectivo y me gusta trabajar en equipo. Estoy constantemente 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=101010)]()
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20bash&logoColor=4EAA25&labelColor=101010)]()
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=008080&labelColor=101010)]()
+<br/>
+<br/>
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=lightgray)]()
